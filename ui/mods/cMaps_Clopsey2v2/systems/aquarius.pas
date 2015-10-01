@@ -1,5 +1,7 @@
 {
     "name": "Aquarius",
+    "creator": "Superouman",
+    "date":"2015/09/30",
     "planets": [
         {
             "name": "Aquarius",

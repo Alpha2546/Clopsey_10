@@ -1,5 +1,7 @@
 {
     "name": "System F205",
+    "creator": "Alpha2546",
+    "date":"2015/09/30",
     "planets": [
         {
             "name": "Coruscant",

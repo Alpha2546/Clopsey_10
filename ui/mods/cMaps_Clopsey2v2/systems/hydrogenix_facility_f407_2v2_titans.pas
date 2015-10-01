@@ -1,5 +1,7 @@
 {
     "name": "Hydrogenix facility F407 2v2 TITANS",
+    "creator": "Alpha2546",
+    "date":"2015/09/30",	
     "planets": [
         {
             "name": "Hydrogenix",

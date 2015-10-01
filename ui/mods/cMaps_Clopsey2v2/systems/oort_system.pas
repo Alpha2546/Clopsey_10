@@ -1,5 +1,8 @@
 {
     "name": "Oort System",
+    "creator": "Emraldis",
+    "date":"2015/09/30",
+    "description":"1v1 or shared 2v2",	
     "planets": [
         {
             "name": "Zilous",
