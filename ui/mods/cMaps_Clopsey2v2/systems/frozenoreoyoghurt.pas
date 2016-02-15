@@ -1,6 +1,6 @@
 {
     
-    "name": "SF1 - FrozenOreoYoughurt",
+    "name": "FrozenOreoYoughurt",
 	"creator": "AndreasG",
 	"version": "1",
 	"date": "2015/10/18",

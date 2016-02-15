@@ -1,5 +1,5 @@
 {
-    "name": "SF3 - THE T3MPLE V2",
+    "name": "THE T3MPLE V2",
 	"creator": "Alpha2546",
 	"version": "1",
 	"date": "2015/04/14",
