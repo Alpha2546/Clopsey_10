@@ -9,7 +9,7 @@ cShareSystems.load_pas("Clopsey 2V2", [
 	"coui://ui/mods/cMaps_Clopsey2v2/systems/frozenoreoyoghurt.pas",	
 	"coui://ui/mods/cMaps_Clopsey2v2/systems/incontrovertible.pas",
 	"coui://ui/mods/cMaps_Clopsey2v2/systems/zetox.pas",
-	"coui://ui/mods/cMaps_Clopsey2v2/systems/mots_recipe_for_disaster.pas",	
+	"coui://ui/mods/cMaps_Clopsey2v2/systems/mots_recipe_for_disaster_original.pas",	
 	"coui://ui/mods/cMaps_Clopsey2v2/systems/elrose_v18.pas",
 	"coui://ui/mods/cMaps_Clopsey2v2/systems/icy_v17.pas",	
 	"coui://ui/mods/cMaps_Clopsey2v2/systems/atlantis.pas",	
